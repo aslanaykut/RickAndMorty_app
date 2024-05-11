@@ -14,7 +14,7 @@
 
 <h2>Libraries</h2>
 
--https://cdnjs.com/ -https://fontawesome.com/icons -https://iconsax-react.pages.dev -https://axios-http.com/docs/intro -https://akveo.github.io/react-native-ui-kitten/docs/getting-started/what-is-ui-kitten#what-is-ui-kitten
+-https://cdnjs.com/ -https://fontawesome.com/icons -https://iconsax-react.pages.dev -https://axios-http.com/docs/intro -https://reactnavigation.org/docs/elements/#headerright -https://reactnativeexample.com/a-rick-and-morty-wiki-made-using-react-native/
 
 <h2>Gif</h2>
 
